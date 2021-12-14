@@ -7,4 +7,8 @@
 // to add over the same file
 
 const name = require("./Data.js");
-console.log(name);
+
+// const add = name(3, -4);  adding
+
+const msg = name();
+console.log(msg);
