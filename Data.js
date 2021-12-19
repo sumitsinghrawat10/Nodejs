@@ -1,8 +1,9 @@
 // console.log("Data.js");
-const name = "Neo";
+// const name = "Neo";
 
 // Add function
-const getNotes = function (a, b) {
+
+const getNotes = function () {
   return "your notes....";
 };
 
